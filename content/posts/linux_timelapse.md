@@ -4,7 +4,6 @@ Tags = ["Linux", "timelapse", "ffmpeg"]
 Categories = ["Linux", "Photo"]
 date = "2019-07-02T22:30:52+02:00"
 menu = "posts"
-draft = true
 title = "Making timelaps photos with ffmpeg on Linux"
 +++
 ## Taking a picture with ffmpeg
