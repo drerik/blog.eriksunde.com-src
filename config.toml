@@ -10,14 +10,14 @@ baseurl = "http://blog.eriksunde.com"
     name = "Blog"
     url = "/posts"
 
-[[menu.main]]
-    name = "Tips'n'Tricks"
-    url = "/tips"
+# [[menu.main]]
+#     name = "Tips'n'Tricks"
+#    url = "/tips"
 
 
-[[menu.main]]
-    name = "Projects"
-    url = "/projects"
+# [[menu.main]]
+#    name = "Projects"
+#    url = "/projects"
 
 
 [[menu.social]]

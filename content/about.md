@@ -1,14 +1,18 @@
 +++
-Categories = ["Personal-c", "Non technical -c"]
+Categories = ["Personal", "Non technical"]
 Description = "Page about me"
 Tags = ["personal", "notech"]
-date = "2016-10-09T10:45:15+02:00"
+date = "2019-07-02T21:04:15+02:00"
 menu = "main"
 title = "About me"
 
 +++
-So this is a page about me. it is kinda cool...
+So this is the about me page... Aka the hard part.. ;)
 
-Will put info about work, hobbies etc. here. :D
+A happily married to my wife and father of a mini me. Loves food, music, technology and thinkering, playing with stuff like 3d printer and other tools that helps me make stuff.
 
-Also ASL. ;)
+Working as a Senior System Administrator Consultant at [Redpill Linpro](http://redpil-linpro.com).  
+My Current obsessions at work is automation and orchistration and cloud environments.
+
+All typos, bad english and opinions are my own etc, etc....
+
